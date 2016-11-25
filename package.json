@@ -1,0 +1,21 @@
+{
+  "name": "socialapp",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jwt-simple": "^0.5.1",
+    "mongoose": "^4.6.8",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+    "protractor": "^4.0.11"
+  }
+}
